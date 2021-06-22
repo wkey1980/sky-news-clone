@@ -1,1 +1,1 @@
-# sky-news-clone
+# Sky News Clone
